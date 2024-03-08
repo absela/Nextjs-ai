@@ -2,3 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+.red {
+    border: 2px solid red;
+}
+
+.blue {
+    border: 2px solid blue;
+}
+
+.green {
+    border: 2px solid green;
+}
